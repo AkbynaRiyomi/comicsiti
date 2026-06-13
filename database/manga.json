@@ -1,45 +1,23 @@
-// appV1.0 Rev 0
-{
-  "manga_id": "dragonslayers-peerless-regression",
-  "title": "A Dragonslayer’s Peerless Regression",
-  "alternative_title": "Return of the Peerless Dragon Slayer, Regresi Pembasmi Naga Tanpa Tanding",
-  "status": "Ongoing",
-  "author": "Heo-ro",
-  "artist": "Studio Inus",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Regression",
-    "Shounen"
-  ],
-  "type": "Manhwa",
-  "release_year": 2023,
-  "rating": 4.8,
-  "synopsis": "Bagi seorang prajurit manusia yang telah kehilangan segalanya akibat amukan naga, satu-satunya cara untuk mengubah takdir adalah dengan mengulang waktu. Berbekal ingatan dan teknik dari kehidupan masa lalu, ia kembali ke masa akademi untuk memburu sang Raja Naga.",
-  "cover_url": "https://raw.githubusercontent.com/username/MonstaComic-assets/main/covers/dragonslayers-peerless-regression.jpg",
-  "chapters": [
-    {
-      "chapter_number": 1,
-      "chapter_title": "Awal dari Pembalasan",
-      "image_links": [
-        "https://raw.githubusercontent.com/username/MonstaComic-assets/main/dragonslayers-peerless-regression/ch001/001.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComic-assets/main/dragonslayers-peerless-regression/ch001/002.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComic-assets/main/dragonslayers-peerless-regression/ch001/003.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComic-assets/main/dragonslayers-peerless-regression/ch001/004.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComic-assets/main/dragonslayers-peerless-regression/ch001/005.jpg"
-      ]
-    },
-    {
-      "chapter_number": 2,
-      "chapter_title": "Kembali ke Akademi",
-      "image_links": [
-        "https://raw.githubusercontent.com/username/MonstaComic-assets/main/dragonslayers-peerless-regression/ch002/001.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComic-assets/main/dragonslayers-peerless-regression/ch002/002.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComic-assets/main/dragonslayers-peerless-regression/ch002/003.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComic-assets/main/dragonslayers-peerless-regression/ch002/004.jpg",
-        "https://raw.githubusercontent.com/username/MonstaComic-assets/main/dragonslayers-peerless-regression/ch002/005.jpg"
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": "d018ced58c2ba5ea24b04c37cfe6671e0b32a82f",
+    "title": "Academy s Genius Swordmaster",
+    "category": "action",
+    "cover": "https://via.placeholder.com/400x600/1a1a1a/39ff14?text=Academy%20s%20Genius%20Swordmaster",
+    "cbz_url": "https://raw.githubusercontent.com/AkbynaRiyomi/comicsiti/main/action/Academy_s%20Genius%20Swordmaster.cbz"
+  },
+  {
+    "id": "7d1b2739ea130372fe4c2e626138a66795c19480",
+    "title": "Chronicles Of The Martial God s Return",
+    "category": "action",
+    "cover": "https://via.placeholder.com/400x600/1a1a1a/39ff14?text=Chronicles%20Of%20The%20Martial%20God%20s%20Return",
+    "cbz_url": "https://raw.githubusercontent.com/AkbynaRiyomi/comicsiti/main/action/Chronicles%20Of%20The%20Martial%20God_s%20Return.cbz"
+  },
+  {
+    "id": "3faae317837088ae96d471df4dcc8270e63977eb",
+    "title": "Crimson Reset",
+    "category": "action",
+    "cover": "https://via.placeholder.com/400x600/1a1a1a/39ff14?text=Crimson%20Reset",
+    "cbz_url": "https://raw.githubusercontent.com/AkbynaRiyomi/comicsiti/main/action/Crimson%20Reset.cbz"
+  }
+]
